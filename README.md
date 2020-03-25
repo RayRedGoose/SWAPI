@@ -1,8 +1,4 @@
-
-
 # SWAPI (Star Wars API)
-
-This is application designed by was built with `create-react-app`.
 
 ## Group Members
 
@@ -14,7 +10,10 @@ SWAPI is an app that contains information about Star Wars movies and characters.
 
 ### Set Up
 
-Clone the repo. Run npm install to ensure all dependencies are running. Enjoy!
+Clone the repo. 
+Run npm install to ensure all dependencies are running. 
+Enter `npm start` in terminal to launch app.
+Enjoy!
 
 ### Expectations / Spec
 
@@ -35,8 +34,7 @@ Tasks:
 - Familiarize use of nested API's and Promise.all()
 - Practice testing with Jest and Enzyme, and become familiar with async testing.
 
-
-## Built With
+## Tech Stack
 
 - HTML5
 - CSS3
@@ -69,12 +67,13 @@ Page 404:
 
 ![](./screenshots/page404.gif)
 
-Note: All Star Wars images come from uihere.com
+
+
+## License
+Note: All Star Wars images come from uihere.com and flaticon.com.
 
 Much of the base CSS for BB-8 is credit to this Pen by Mike Dixon: https://codepen.io/mdixondesigns/pen/PPEJwz, which was the original inspiration for https://codepen.io/bullerb/pen/gMpxNZ by Brad Colthurst!
 
 The R2D2 loading animation was taken from a Try Turing project
-
-## License
 
 All credit goes to Turing School of Software for providing the project specifications and website design.
